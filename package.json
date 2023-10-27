@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.{js,jsx,tsx,ts,vue}": [
+      "eslint --fix"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^18.2.0",
+    "@commitlint/config-conventional": "^18.1.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2"
+  }
+}
