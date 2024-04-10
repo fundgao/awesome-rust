@@ -1,4 +1,4 @@
-# rust-yew
+# [rust](https://www.rust-lang.org/zh-CN/)-yew
 
 Base on rust & yew
 
