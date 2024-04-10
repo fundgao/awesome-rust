@@ -5,6 +5,7 @@ Base on rust & yew
 # ⏬ Dependencies
 
 - [Yew](https://yew.rs/zh-Hans/docs/getting-started/build-a-sample-app)
+- [rust-by-example](https://github.com/rust-lang/rust-by-example?tab=readme-ov-file)
 
 # 📖 Introduction
 
