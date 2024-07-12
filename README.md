@@ -6,6 +6,7 @@ Base on rust & yew
 
 - [Yew](https://yew.rs/zh-Hans/docs/getting-started/build-a-sample-app)
 - [rust-by-example](https://github.com/rust-lang/rust-by-example?tab=readme-ov-file)
+- [Rust 在前端领域的应用](https://juejin.cn/post/7076354498691596325)
 
 # 📖 Introduction
 
